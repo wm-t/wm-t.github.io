@@ -9,6 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
+<div class="cv-download-links">
+  <a href="{{ base_path }}/files/cv.pdf" class="btn btn--primary">Download full CV as PDF</a>
+</div>
+
 Education
 ======
 * Ph.D. in Linguistics, Ohio State University, 2025
