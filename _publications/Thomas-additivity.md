@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/Thomas-additivity
 excerpt:
-date: "2024"
+date: "2024-04-01"
 venue: "Accepted pending revisions at <i>Semantics and Pragmatics</i>"
 slidesurl:
 paperurl: 'https://wm-t.github.io/files/Thomas-additivity.pdf'
