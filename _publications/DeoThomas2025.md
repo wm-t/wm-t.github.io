@@ -5,7 +5,7 @@ category: manuscripts
 permalink: /publication/DeoThomas2025
 excerpt: 'A unified analysis of English <i>just</i>.'
 date: 2025-01-27
-venue: '(Second author with Ashwini Deo.) Published in <i>Journal of Semantics</i>.'
+venue: '(Second author with Ashwini Deo.) Published in <i>Journal of Semantics</i>'
 slidesurl:
 paperurl: 'https://wm-t.github.io/files/DeoThomas2025.pdf'
 citation: "Deo, Ashwini and William C. Thomas. (2025). Addressing the widest answerable question: English <i>just</i> as a domain-widening strategy. <i>Journal of Semantics 42</i>(1&ndash;2), 1&ndash;37."
