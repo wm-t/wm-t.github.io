@@ -2,12 +2,12 @@
 title: "Toward a unified semantics for English <i>either</i>"
 collection: publications
 category: conferences
-permalink: /publication/Thomas2021
-excerpt: 'An analysis of the additive and disjunctive uses of <i>either</i> in Inquisitive Semantics.'
+permalink: /publication/Thomas2021b
+excerpt: "An analysis of the additive and disjunctive uses of <i>either</i> in Inquisitive Semantics."
 date: 2022-01-05
-venue: 'Published in <i>Proceedings of Semantics and Linguistic Theory (SALT)</i>'
+venue: "Published in <i>Proceedings of Semantics and Linguistic Theory (SALT)</i>"
 slidesurl:
-paperurl: 'https://wm-t.github.io/files/Thomas2021.pdf'
+paperurl: 'https://wm-t.github.io/files/Thomas2021b.pdf'
 citation: "Thomas, William C. (2021). Toward a unified semantics for English <i>either</i>. <i>Proceedings of SALT 31</i>, 446&ndash;465."
 ---
 
