@@ -1,7 +1,7 @@
 ---
 title: "A probabilistic, question-based approach to additivity"
 collection: publications
-category: manuscripts
+category: journals
 permalink: /publication/Thomas-additivity
 excerpt: "A treatment of additivity that uses Inquisitive Semantics and Bayesian pragmatics to account for a previously undocumented use of English <i>too</i> that I call the 'argument-building' use."
 date: "2024-04-01"
