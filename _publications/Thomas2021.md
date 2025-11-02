@@ -1,7 +1,7 @@
 ---
 title: "Toward a unified semantics for English <i>either</i>"
 collection: publications
-category: manuscripts
+category: conferences
 permalink: /publication/Thomas2021
 excerpt: 'An analysis of the additive and disjunctive uses of <i>either</i> in Inquisitive Semantics.'
 date: 2022-01-05
