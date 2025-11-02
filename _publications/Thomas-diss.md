@@ -1,5 +1,5 @@
 ---
-title: "The (social) meaning of English additive expressions"
+title: "The (Social) Meaning of English Additive Expressions"
 collection: publications
 category: dissertation
 permalink: /publication/Thomas-diss
