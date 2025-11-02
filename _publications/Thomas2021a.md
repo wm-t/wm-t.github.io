@@ -2,12 +2,12 @@
 title: "Social inferences from the use of <i>just</i> as an exclusive particle"
 collection: publications
 category: conferences
-permalink: /publication/Thomas2021b
+permalink: /publication/Thomas2021a
 excerpt: "An experiment about how people are judged for using <i>just</i> in a workplace setting."
 date: 2021-03-20
 venue: "Published in <i>Proceedings of the Linguistic Society of America</i>."
 slidesurl:
-paperurl: 'https://wm-t.github.io/files/Thomas2021b.pdf'
+paperurl: 'https://wm-t.github.io/files/Thomas2021a.pdf'
 citation: "Thomas, William C. (2021). Social inferences from the use of <i>just</i> as an exclusive particle. <i>Proceedings of the Linguistic Society of America</i>, 746&ndash;760."
 ---
 
