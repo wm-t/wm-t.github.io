@@ -1,7 +1,7 @@
 ---
 title: "English does too have a [REVERSE,+] polarity particle!"
 collection: publications
-category: manuscripts
+category: conferences
 permalink: /publication/Thomas2023
 excerpt: 'An analysis of the refutation use of English <i>too</i> according to which it is a polarity particle with a special sensitivity to discourse commitments.'
 date: 2023-11-30
