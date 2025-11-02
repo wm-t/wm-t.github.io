@@ -1,7 +1,7 @@
 ---
 title: "Addressing the widest answerable question: English <i>just</i> as a domain widening strategy"
 collection: publications
-category: manuscripts
+category: journals
 permalink: /publication/DeoThomas2025
 excerpt: 'A unified analysis of English <i>just</i>.'
 date: 2025-01-27
