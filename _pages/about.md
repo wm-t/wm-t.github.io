@@ -1,4 +1,4 @@
----
+at---
 permalink: /
 title: "About me"
 author_profile: true
@@ -11,4 +11,4 @@ I am a postdoctoral researcher in the Department of English Linguistics at the U
 
 Phenomena I am interested in include some that are traditionally considered to be in the scope of formal semantics and pragmatics (discourse structure, questions, imperatives, gradability, vagueness, negative polarity items, implicature, anaphora, deixis) and others that fall within the domain of sociolinguistics (indexicality, social perception, style construction, enregisterment, politeness). I think that formal semantics/pragmatics can learn a lot from sociolinguistics and linguistic anthropology, so I am interested in developing more integrated theories of meaning through interdisciplinary dialogue.
 
-I have a particular interest in discourse particles&mdash;small words that structure conversation in multifarious ways. My dissertation, which was supervised by Ashwini Deo and Kathryn Campbell-Kibler, concerns the English additive particles *too*, *also*, and *as well*. It includes both a probabilistic pragmatic analysis of how various uses of additives structure the exchange of information in discourse and an experimental investigation of how listeners form social judgments based on how speakers use additives.
+I have a particular interest in discourse particles&mdash;small words that structure conversation in multifarious ways. My dissertation, which was supervised by Ashwini Deo and Kathryn Campbell-Kibler, concerns the English additive particles *too*, *also*, and *as well*. It includes both a probabilistic pragmatic analysis of how various uses of additives structure the exchange of information in discourse and an experimental investigation of how listeners form social judgments based on how speakers use refutational *too*.
